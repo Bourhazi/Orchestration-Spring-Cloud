@@ -6,4 +6,3 @@ Ce projet implémente une architecture microservices avec Spring Cloud. Il inclu
 - Deux microservices :
   - **Client Service** : Gestion des clients.
   - **Voiture Service** : Gestion des voitures.
-- Un **Frontend** : Interface graphique pour les utilisateurs.
